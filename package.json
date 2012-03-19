@@ -1,0 +1,21 @@
+{
+  "author": "Damien Wilson <damien@mindglob.com> (http://mindglob.com/)",
+  "name": "semver-js",
+  "description": "A Semantic Version compatible Version class.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/damien/semver-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/damien/semver-js.git"
+  },
+  "main": "version.js",
+  "scripts": {
+    "test": "make"
+  },
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
